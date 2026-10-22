@@ -1,7 +1,7 @@
 # 🛍️ Retail Sales Dashboard
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
 
 ## 📌 Project Overview
 This project analyzes retail sales data to uncover key business insights.  
